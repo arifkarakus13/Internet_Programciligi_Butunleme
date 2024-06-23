@@ -1,0 +1,45 @@
+body {
+    background-color: #f4f4f4;
+    align-items: center;
+    margin: 0;
+}
+
+.login-container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    width: 300px;
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+}
+
+.input-group {
+    margin-bottom: 15px;
+}
+
+.input-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.input-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #ebebeb;
+    color: rgb(0, 0, 0);
+}
+
+button:hover {
+    background-color: #3f51b5;
+}
+ 
